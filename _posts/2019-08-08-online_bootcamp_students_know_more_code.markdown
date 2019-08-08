@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Online Bootcamp Students Know More Code"
-date:       2019-08-08 14:05:47 +0000
+date:       2019-08-08 10:05:48 -0400
 permalink:  online_bootcamp_students_know_more_code
 ---
 
