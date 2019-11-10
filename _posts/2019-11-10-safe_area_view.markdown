@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Safe Area View"
-date:       2019-11-10 18:00:00 +0000
+date:       2019-11-10 13:00:01 -0500
 permalink:  safe_area_view
 ---
 
 
-A neat little fuction to react-navigation is SafeAreaView expecially in cases where you have no set header and don't want your screen to get pushed up behind the time and battery power of you phone. For example if your screen lookslike this:
+A neat little fuction to react-navigation is SafeAreaView expecially in cases where you have no set header and don't want your screen to get pushed up behind the time and battery power of you phone. For example if your screen looks like this:
 
 ![https://i.imgur.com/vK4SXepm.png](https://i.imgur.com/vK4SXepm.png)
 
